@@ -6,7 +6,7 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：33
 * 手 机：18251159497 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：lixiaolincontact@gmail.com
-* 专 业：计算机科学与计术 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp岗 位：研发工程师
+* 专 业：计算机科学与计术 &emsp;&emsp;&emsp;&emsp;&emsp;岗 位：研发工程师
 
 ## 工作及教育经历
 
